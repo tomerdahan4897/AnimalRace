@@ -1,2 +1,4 @@
 # AnimalRace
-Project in JS&amp;TS
+Project in JS and TS
+please open with Live Server.
+Enjoy :)
